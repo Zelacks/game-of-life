@@ -1,0 +1,9 @@
+﻿Build started 27/09/2013 6:41:01 PM.
+     1>Project "C:\Users\ACiertz\Documents\GitHub\game-of-life\GameOfLife\GameOfLife.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\GameOfLife.lastbuildstate".
+     1>Done Building Project "C:\Users\ACiertz\Documents\GitHub\game-of-life\GameOfLife\GameOfLife.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
