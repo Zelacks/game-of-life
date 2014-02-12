@@ -24,7 +24,7 @@ void init() {
 
 
 	do {
-	std::cout << "Please enter a grid size greater than 0:" << std::endl;
+	std::cout << "Please enter a grid size greater than 0 (Best with values between 40 and 100):" << std::endl;
 	std::cin >> gridSize;
 	} while (gridSize <= 0);
 
